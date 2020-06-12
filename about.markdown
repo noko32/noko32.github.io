@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello welcome to my page i'm a (hopefully) soon to be hacker and this is my page where i post writeups and sometimes think pieces.
 
-<img src="Images/frog.jpg" width="100" height="100">
+<img src="Images/cutefrog.jpg" width="100" height="100">
 
 Here's a frog cuz i needed to learn how to use markdown and i like frogs
 
