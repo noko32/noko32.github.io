@@ -20,7 +20,9 @@ Seems innocent enough, so let's start!
 
 \#2 What is the Web Directory you found?
 This is easy enough just run a web directory search tool on the ip till something pops up and sure enough (i'm using gobuster cuz i like it you can use something else)
+
 `$ gobuster dir -u machineip -w /wordlistpath` 
+
 [![LianYuHiddenDirectory1](/pathpending "Hidden sub directory")]
 Well gobusterfound a hidden directory and it seems to be a pretty simple site giving us a code word but it can't be seen but using the command `curl -i machineip` we get a result very much like the next:
 
