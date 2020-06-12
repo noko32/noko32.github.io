@@ -11,7 +11,11 @@ Hello welcome to my page i'm a (hopefully) soon to be hacker and this is my page
 
 Here's a frog cuz i needed to learn how to use markdown and i like frogs
 
-## I have accounts on TryHackMe and HackTheBox !
+## I have accounts on TryHackMe!
 
-<script src="https://tryhackme.com/badge/32698"></script> <script display:inline-block src="https://www.hackthebox.eu/badge/264558"></script>
+<script src="https://tryhackme.com/badge/32698"></script> 
+
+## and HackTheBox!
+
+<script src="https://www.hackthebox.eu/badge/264558"></script>
 
