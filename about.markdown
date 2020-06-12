@@ -13,5 +13,5 @@ Here's a frog cuz i needed to learn how to use markdown and i like frogs
 
 ## I have accounts on TryHackMe and HackTheBox !
 
-<script src="https://tryhackme.com/badge/32698"></script> <script src="https://www.hackthebox.eu/badge/264558"></script>
+<script src="https://tryhackme.com/badge/32698"></script> <script display:inline-block src="https://www.hackthebox.eu/badge/264558"></script>
 
