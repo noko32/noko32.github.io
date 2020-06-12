@@ -6,7 +6,7 @@ categories: Writeups
 permalink: "/Writeups/Lian_Yu"
 ---
 ## Welcome this is a writeup for the TryHackMe.com room [Lian-Yu](https://tryhackme.com/room/lianyu)
-[![LianYuCard](Images/Lian_Yu\ Card.png "Lian Yu Room card")]
+![LianYuCard](Images/"Lian_Yu Card.PNG" "Lian Yu Room card")
 While doing this room i ran into some interesting challenges that made me really think hard! i would recommend it for any beginner!
 We start by doing a basic nmap scan
 
