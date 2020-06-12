@@ -5,7 +5,8 @@ date:   2020-06-03 10:29:40 -0400
 categories: Writeups
 permalink: "/Writeups/Lian_Yu"
 ---
-## Welcome this is a writeup for the TryHackMe.com room [Lian-Yu] (https://tryhackme.com/room/lianyu)
+## Welcome this is a writeup for the TryHackMe.com room [Lian-Yu](https://tryhackme.com/room/lianyu)
+
 While doing this room i ran into some interesting challenges that made me really think hard! i would recommend it for any beginner!
 We start by doing a basic nmap scan
 
